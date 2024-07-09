@@ -6,11 +6,11 @@ My Solidity Notes.
 
 [Question 2: What is the max allowed size of a smart contract](<Questions/Q2: what is the max allowed size of a smart contract.md>)
 
-[Question 3: What major change with arithmetic happened with Solidity 0.8.0](<Questions/Q3: What major change with arithmetic happened with Solidity 0.8.0?.md>)
+[Question 3: What major change with arithmetic happened with Solidity 0.8.0](<Questions/Q3: Major-arithmetic-change-with Solidity v8.md>)
 
-[Question 4: What are the challenges of creating a random number on the blockchain](<Questions/Q4: What are the challenges of creating a random number on the blockchain?.md>)
+[Question 4: What are the challenges of creating a random number on the blockchain](<Questions/Q4: challenges-creating-random-number-in-blockchain.md>)
 
-[Question 5: What does deterministic mean in blockchain](<Questions/Q5: What does deterministic mean in blockchain?.md>)
+[Question 5: What does deterministic mean in blockchain](<Questions/Q5: deterministic-mean-in-blockchain.md>)
 
 
 
